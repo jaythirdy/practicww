@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffff;
+    font-family: serif;
+}
+
+.profile_card {
+    width: 200px;
+    padding: 20px;
+    background-color: #954fc4;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+p.two {text-decoration: line-through;color: #000000;}
